@@ -9,4 +9,6 @@ The following were used to create WallMi:
 
 To use the project you can download the project, navigate to the src folder and run npm start.
 
+Here is a screenshot of WallMi in action:
+
 ![ScreenShot of WallMi](https://user-images.githubusercontent.com/16820612/40356524-ea9389de-5dd6-11e8-8ba2-b5d457100f82.png)
