@@ -1,3 +1,5 @@
+## **WallMe - A Disabled friendly retail bot.** 
+
 This project WallMe saw its inception in the WonderCoders Hackathon organized by Walmart. It is disable friendly bot that can help customers know the inventory, chose items of their preference and checkout.
 
 The following were used to create WallMe:
